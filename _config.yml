@@ -1,6 +1,7 @@
 # theme: minima
 remote_theme: artemsheludko/flexible-jekyll
-plugins:
-  - jekyll-remote-theme
 title: Dileepa Pitawela
 description: Personal Website
+
+plugins:
+  - jekyll-remote-theme
