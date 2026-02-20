@@ -1,3 +1,11 @@
-Hi, I'm Dileepa
+---
+layout: page
+title: About
+permalink: /
+---
 
-loading..
+Hi, I'm Your Name.
+
+I work on ordinal learning, contrastive methods, and generative models.
+
+Welcome to my personal page!
