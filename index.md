@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-Hi, I'm Your Name.
+Hi, I'm Dileepa.
 
 I work on ordinal learning, contrastive methods, and generative models.
 
