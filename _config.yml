@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Dileepa
 description: Personal website
+
+header_pages:
+  - index.md
+  - projects.md
