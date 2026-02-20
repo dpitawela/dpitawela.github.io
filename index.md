@@ -1,10 +1,7 @@
----
-
 layout: page
 title: About
 permalink: /
 
----
 
 Hi, I'm Your Name.
 
